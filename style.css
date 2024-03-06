@@ -54,7 +54,7 @@ body{
     border-top: none;
 } 
 
-/*responsividade*/
+
 
 @media screen and (min-width: 768px) { 
     .botoes { 
