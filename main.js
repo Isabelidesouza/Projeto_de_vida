@@ -20,7 +20,7 @@ let tempoAtual = new Date();
 
 contadores[0].textContent = tempoObjetivo1 - tempoAtual;
 
-//aula 6
+
 
 function calculaTempo(tempoObjetivo) {
     let tempoAtual = new Date();
